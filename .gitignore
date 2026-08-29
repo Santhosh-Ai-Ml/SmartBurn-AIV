@@ -79,4 +79,4 @@ build/
 # =========================
 # Generated reports
 # =========================
-reports/
+reports/dist.zip
