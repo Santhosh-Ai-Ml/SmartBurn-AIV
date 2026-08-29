@@ -80,3 +80,4 @@ build/
 # Generated reports
 # =========================
 reports/dist.zip
+*.zip 
