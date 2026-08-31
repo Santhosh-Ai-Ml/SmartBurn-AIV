@@ -932,7 +932,7 @@ function App() {
 
   const handleGetStarted = () => {
 
-    window.location.href = "https://smartburn-aiv.netlify.app";
+    window.location.href = "https://smartburn-aiv-dashboard.onrender.com";
 
   };
 
