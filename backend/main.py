@@ -6,7 +6,7 @@ import os
 import pandas as pd
 from fastapi import HTTPException
 
-from backend.predict import predict_component
+from predict import predict_component
 
 BASE_DIR = os.path.dirname(
     os.path.dirname(os.path.abspath(__file__))
